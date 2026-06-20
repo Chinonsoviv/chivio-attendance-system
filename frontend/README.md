@@ -19,4 +19,4 @@ Clone the repo, run `npm install` in both backend and frontend folders, add your
 ## Author
 **Chinonso Vivian Ojeri**, Cloud Computing Portfolio Project
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chinonsoviv-black)](https://github.com/Chinonsoviv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Chinonsoviv-black)](https://github.com/Chinonsoviv) 
