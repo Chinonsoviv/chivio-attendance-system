@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Chivio Attendance System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Status](https://img.shields.io/badge/Status-Live-brightgreen) ![AWS](https://img.shields.io/badge/Cloud-AWS%20DynamoDB-orange) ![React](https://img.shields.io/badge/Frontend-React.js-blue) ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 
-## Available Scripts
+A cloud-based attendance tracking system built to automate record-keeping and simplify attendance management for organizations in real time, powered by AWS DynamoDB.
 
-In the project directory, you can run:
+## Features
+- Mark attendance in real time, Present, Absent, or Late
+- Cloud storage powered by AWS DynamoDB
+- Beautiful dark themed dashboard with live charts
+- Fully responsive on mobile and desktop
 
-### `npm start`
+## Tech Stack
+React.js, Node.js, Express.js, AWS DynamoDB
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup
+Clone the repo, run `npm install` in both backend and frontend folders, add your AWS credentials to `backend/.env`, then run `node server.js` in backend and `npm start` in frontend. Visit `http://localhost:3000`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Author
+**Chinonso Vivian Ojeri**, Cloud Computing Portfolio Project
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![GitHub](https://img.shields.io/badge/GitHub-Chinonsoviv-black)](https://github.com/Chinonsoviv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
